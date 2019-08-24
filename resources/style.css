@@ -1,0 +1,21 @@
+/* Flex items */
+
+.flex-container {
+  display: flex;
+}
+
+.nav-flex-container {
+  display: inline-flex;
+}
+
+/* Header items */
+
+.header {
+  font-family: "Verdana",sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.header h1 {
+  color: MediumAquamarine;
+}
