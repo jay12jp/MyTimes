@@ -19,3 +19,41 @@
 .header h1 {
   color: MediumAquamarine;
 }
+
+/* Main Content */
+
+.main-container {
+  border: 1px solid black;
+  width: 100%;
+  height: 600px;
+}
+
+.tile-1 {
+  border: 1px solid black;
+  width: 40%;
+  height: 230px;
+}
+
+.tile-1-heading {
+  border: 1px solid black;
+  width: 100%;
+  height: 40px;
+}
+
+.tile-2 {
+  border: 2px solid black;
+  width: 40%;
+  height: 316px;
+}
+
+.tile-2-header {
+  border: 2px solid black;
+  width: 100%;
+  height: 110px;
+}
+
+.tile-2-content {
+  border: 2px solid black;
+  width: 100%;
+  height: 40px;
+}
